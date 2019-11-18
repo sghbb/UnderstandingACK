@@ -1,4 +1,0 @@
-american
-# UnderstandingACK
-
-zzz
